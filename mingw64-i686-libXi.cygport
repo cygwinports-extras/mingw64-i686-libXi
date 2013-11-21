@@ -3,7 +3,7 @@ ORIG_PN="libXi"
 inherit cross xorg
 
 NAME="mingw64-i686-libXi"
-VERSION=1.6.1
+VERSION=1.7.2
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="X.Org X Input library for Win32 toolchain"
